@@ -1,5 +1,4 @@
-//Nicola Phiri
-//ISAT subtask 2
+//ISAT Subtask 2
 //5 August 2024
 //172300940
 #include <iostream>
